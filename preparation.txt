@@ -1,0 +1,6 @@
+1. ลง node .js
+2. vs.code ลง extension ต่าง (ES7,plettier-code formatter)
+  - หลังจากลงแล้วไปที่ file -> preference -> setting
+  - ไปที่พิมพ์ หา format
+    -ไปที่ editor: Default Formatter เลือก Prettier - Code formatter
+        -ไปที่ Editor: Format On Paste เช็คถูก
